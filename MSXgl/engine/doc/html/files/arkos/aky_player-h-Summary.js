@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:arkos/aky_player.h","aky_player.h");NDSummary.OnSummaryLoaded("File:arkos/aky_player.h",[["C/C++","C"]],[["Functions","Function"],["Groups","Group"]],[[1,0,1,"Functions","Functions"],[2,0,0,"AKY_Init","AKY_Init"],[3,0,0,"AKY_Stop","AKY_Stop"],[4,0,0,"AKY_Decode","AKY_Decode"]]);

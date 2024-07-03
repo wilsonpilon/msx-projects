@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:localize.h","localize.h");NDSummary.OnSummaryLoaded("File:localize.h",[["C/C++","C"]],[["Functions","Function"],["Groups","Group"]],[[769,0,1,"Functions","Functions"],[782,0,0,"Loc_Initialize","Loc_Initialize"],[784,0,0,"Loc_SetLanguage","Loc_SetLanguage"],[785,0,0,"Loc_GetText","Loc_GetText"]]);

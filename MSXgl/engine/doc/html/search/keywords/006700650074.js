@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("get",["Macro","Function"],[["GET_BANK_SEGMENT",,[[,,,,0,"File:system.h:GET_BANK_SEGMENT"]]],["GetCommandBX",,[[,,,,1,"File:v9990.h:GetCommandBX"]]]]);

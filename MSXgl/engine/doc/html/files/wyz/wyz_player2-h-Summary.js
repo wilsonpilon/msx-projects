@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:wyz/wyz_player2.h","wyz_player2.h");NDSummary.OnSummaryLoaded("File:wyz/wyz_player2.h",[["C/C++","C"]],[["Functions","Function"],["Groups","Group"]],[[306,0,1,"Functions","Functions"],[307,0,0,"WYZ_Initialize","WYZ_Initialize"],[308,0,0,"WYZ_Play","WYZ_Play"],[309,0,0,"WYZ_Stop","WYZ_Stop"],[310,0,0,"WYZ_Decode","WYZ_Decode"]]);
